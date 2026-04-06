@@ -1,0 +1,22 @@
+[
+  {"nazwa":"Interamnia","masa":3.89e19,"srednica":326000.0,"sklad":"krzemiany, węgiel","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Davida","masa":3.34e19,"srednica":289000.0,"sklad":"węgiel, minerały uwodnione","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Europa","masa":3.1e19,"srednica":302000.0,"sklad":"krzemiany, węgiel","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Sylvia","masa":1.48e19,"srednica":286000.0,"sklad":"węgiel, skały","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Cybele","masa":1.0e19,"srednica":237000.0,"sklad":"węgiel, minerały uwodnione","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Eunomia","masa":3.14e19,"srednica":255000.0,"sklad":"krzemiany, skały","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Psyche","masa":2.41e19,"srednica":226000.0,"sklad":"żelazo-nikiel, metaliczny","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Thisbe","masa":1.5e19,"srednica":232000.0,"sklad":"węgiel, minerały uwodnione","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Hektor","masa":7.9e18,"srednica":225000.0,"sklad":"węgiel, skały","orbita":"Trojańskie Jowisza","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Fortuna","masa":1.1e19,"srednica":225000.0,"sklad":"węgiel, minerały uwodnione","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Undina","masa":9.0e18,"srednica":200000.0,"sklad":"krzemiany","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Koronis","masa":8.0e18,"srednica":190000.0,"sklad":"krzemiany","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Bamberga","masa":1.0e19,"srednica":229000.0,"sklad":"węgiel","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Dysnomia","masa":7.0e18,"srednica":180000.0,"sklad":"węgiel","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Amphitrite","masa":6.5e18,"srednica":170000.0,"sklad":"krzemiany","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Iris","masa":6.0e18,"srednica":214000.0,"sklad":"krzemiany","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Hebe","masa":5.8e18,"srednica":185000.0,"sklad":"krzemiany, żelazo","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Metis","masa":5.5e18,"srednica":190000.0,"sklad":"krzemiany","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Juno","masa":2.67e19,"srednica":233000.0,"sklad":"krzemiany, skały","orbita":"Pas asteroid","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Bengu","masa":7.3e10,"srednica":490.0,"sklad":"węgiel, minerały uwodnione","orbita":"NEA","galaktykaId":1,"utworzylId":7}
+]

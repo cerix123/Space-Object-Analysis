@@ -1,0 +1,242 @@
+[
+  {
+    "nazwa": "Gaia BH1",
+    "masa": 1.9094399999999999e+31,
+    "promienSchwarzschilda": 28359.614928531882,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "V616 Mon",
+    "masa": 1.33263e+31,
+    "promienSchwarzschilda": 19792.647918871215,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "GRO J1655-40",
+    "masa": 1.2530699999999999e+31,
+    "promienSchwarzschilda": 18610.997296849047,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "XTE J1118+480",
+    "masa": 1.55142e+31,
+    "promienSchwarzschilda": 23042.187129432157,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "GRS 1915+105",
+    "masa": 2.3868e+31,
+    "promienSchwarzschilda": 35449.51866066486,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "V4641 Sgr",
+    "masa": 1.3923e+31,
+    "promienSchwarzschilda": 20678.885885387834,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "XTE J1550-564",
+    "masa": 1.80999e+31,
+    "promienSchwarzschilda": 26882.551651004185,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "V404 Cyg",
+    "masa": 1.7900999999999998e+31,
+    "promienSchwarzschilda": 26587.13899549864,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "4U 1543-47",
+    "masa": 1.7900999999999998e+31,
+    "promienSchwarzschilda": 26587.13899549864,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "GS 2000+25",
+    "masa": 1.5912e+31,
+    "promienSchwarzschilda": 23633.01244044324,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "GRO J0422+32",
+    "masa": 7.956e+30,
+    "promienSchwarzschilda": 11816.50622022162,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "GRS 1009-45",
+    "masa": 1.6906499999999999e+31,
+    "promienSchwarzschilda": 25110.07571797094,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "GS 1354-64",
+    "masa": 1.5912e+31,
+    "promienSchwarzschilda": 23633.01244044324,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "MAXI J1659-152",
+    "masa": 1.3923e+31,
+    "promienSchwarzschilda": 20678.885885387834,
+    "typ": "Gwiazdowa",
+    "galaktykaId": 1,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "M87*",
+    "masa": 1.29285e+40,
+    "promienSchwarzschilda": 19201822607860.133,
+    "typ": "Supermasywna",
+    "galaktykaId": 10,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "M51*",
+    "masa": 1.9889999999999998e+38,
+    "promienSchwarzschilda": 295412655505.54047,
+    "typ": "Supermasywna",
+    "galaktykaId": 7,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "M64*",
+    "masa": 1.4917499999999998e+38,
+    "promienSchwarzschilda": 221559491629.15536,
+    "typ": "Supermasywna",
+    "galaktykaId": 8,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "Centaurus A*",
+    "masa": 9.944999999999999e+37,
+    "promienSchwarzschilda": 147706327752.77023,
+    "typ": "Supermasywna",
+    "galaktykaId": 9,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "M81*",
+    "masa": 1.3922999999999999e+38,
+    "promienSchwarzschilda": 206788858853.87833,
+    "typ": "Supermasywna",
+    "galaktykaId": 12,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "M82*",
+    "masa": 5.966999999999999e+37,
+    "promienSchwarzschilda": 88623796651.66214,
+    "typ": "Supermasywna",
+    "galaktykaId": 13,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "M63*",
+    "masa": 5.966999999999999e+37,
+    "promienSchwarzschilda": 88623796651.66214,
+    "typ": "Supermasywna",
+    "galaktykaId": 14,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "IC 1101*",
+    "masa": 7.956e+40,
+    "promienSchwarzschilda": 118165062202216.19,
+    "typ": "Supermasywna",
+    "galaktykaId": 15,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "Hercules A*",
+    "masa": 7.956e+39,
+    "promienSchwarzschilda": 11816506220221.62,
+    "typ": "Supermasywna",
+    "galaktykaId": 16,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "NGC 1277*",
+    "masa": 3.3813e+39,
+    "promienSchwarzschilda": 5022015143594.188,
+    "typ": "Supermasywna",
+    "galaktykaId": 17,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "UGC 2885*",
+    "masa": 1.989e+39,
+    "promienSchwarzschilda": 2954126555055.405,
+    "typ": "Supermasywna",
+    "galaktykaId": 18,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "Arp 188*",
+    "masa": 9.945e+38,
+    "promienSchwarzschilda": 1477063277527.7024,
+    "typ": "Supermasywna",
+    "galaktykaId": 19,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "OJ 287",
+    "masa": 3.5802e+40,
+    "promienSchwarzschilda": 53174277990997.29,
+    "typ": "Supermasywna",
+    "galaktykaId": 11,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "Holm 15A*",
+    "masa": 7.956e+40,
+    "promienSchwarzschilda": 118165062202216.19,
+    "typ": "Supermasywna",
+    "galaktykaId": 3,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "TON 618*",
+    "masa": 1.3127399999999999e+41,
+    "promienSchwarzschilda": 194972352633656.72,
+    "typ": "Supermasywna",
+    "galaktykaId": 4,
+    "utworzylId": 7
+  },
+  {
+    "nazwa": "Phoenix A*",
+    "masa": 1.9889999999999998e+41,
+    "promienSchwarzschilda": 295412655505540.5,
+    "typ": "Supermasywna",
+    "galaktykaId": 5,
+    "utworzylId": 7
+  }
+]

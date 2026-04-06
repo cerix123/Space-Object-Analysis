@@ -1,0 +1,20 @@
+[
+  {"nazwa":"Kasjopeja","opis":"Widoczna przez cały rok na niebie północnym, kształtem przypomina literę W lub M, kojarzona z mitologiczną królową","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Cefeusz","opis":"Okołobiegunowy, widoczny cały rok, kojarzony z mitycznym królem Etiopii, ojcem Andromedy","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Smok","opis":"Długi i wijący się wokół Małej Niedźwiedzicy, widoczny cały rok, kojarzony z mitycznym smokiem strzegącym jabłek Hesperyd","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Wolarz","opis":"Widoczny wiosną i latem, zawiera jasną gwiazdę Arktur, kształtem przypomina latawiec","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Łabędź","opis":"Latem wysoko na niebie, krzyż z Denebem, kojarzony z mitycznym łabędziem Zeusa","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Lutnia","opis":"Mały, ale z bardzo jasną Wegą, widoczny latem, kojarzony z lirą Orfeusza","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Orzeł","opis":"Letni trójkąt z Wegą i Altairem, zawiera jasnego Altaira, kojarzony z orłem Zeusa","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Herakles","opis":"Duży, widoczny latem, kojarzony z mitycznym herosem Heraklesem","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Korona Północna","opis":"Mały łuk gwiazd, widoczny latem, kojarzony z koroną Ariadny","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Wężownik","opis":"Duży, blisko zodiaku, widoczny latem, jedyny człowiek wśród gwiazdozbiorów","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Waga","opis":"Zodiakalny, widoczny latem i jesienią, kojarzony z wagą sprawiedliwości","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Panna","opis":"Duży zodiakalny, wiosną i latem, zawiera jasną Spikę","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Wodnik","opis":"Zodiakalny, jesienią, zawiera gromadę kulistą M2","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Ryby","opis":"Zodiakalny, jesienią i zimą, kojarzony z rybami uciekającymi przed Tyfonem","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Baran","opis":"Zodiakalny, jesienią i zimą, ma jasne gwiazdy Hamal i Sheratan","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Bliźnięta","opis":"Zodiakalny, zimą, z dwiema jasnymi gwiazdami Kastor i Polluks","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Rak","opis":"Zodiakalny, zimą i wiosną, mała i ciemna konstelacja","galaktykaId":1,"utworzylId":7},
+  {"nazwa":"Woźnica","opis":"Zimowy, zawiera jasną Kapellę, kształtem przypomina pentagon","galaktykaId":1,"utworzylId":7}
+]
